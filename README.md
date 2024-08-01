@@ -12,6 +12,8 @@ This project is a Node.js backend API that fetches, filters, and sorts JSON data
 - Sort data by different fields
 - Cache data to reduce the number of external requests
 
+## Postman Shared Collection
+https://documenter.getpostman.com/view/33497520/2sA3kdBHwE
 ## Screencasts
 
 - Fetching the data from the source
