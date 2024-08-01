@@ -77,7 +77,7 @@ node scripts/init.js
 1. Start the server:
 
    ```bash
-   npm start
+   nodemon app.js
    ```
 
    The server will run on `http://localhost:3000` by default.
